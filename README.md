@@ -1,4 +1,7 @@
-# VU_DataMiningTechniques_2021
+# VU_DMT_2022_Group92_Assignment1
+
+First assignment(basic) of DataMiningTechniques of 2022 in Vrije Universiteit Amsterdam.
+
 Two tasks included,
 
 The first one is explore a small dataset and train a simple model with it.
